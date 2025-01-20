@@ -2,7 +2,7 @@
   "name": "demo-app-react",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://sonaarakelova.github.io/react-project/",
+  "homepage":"https://github.com/SonaArakelova/react-project",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
