@@ -2,6 +2,7 @@ const items = [
   {
     id: 98,
     title: "Rolex Submariner Watch",
+    category: "watch",
     price: 13999.99,
     quantity: 1,
     thumbnail:
@@ -10,6 +11,7 @@ const items = [
   {
     id: 125,
     title: "Oppo A57",
+    category: "phone",
     price: 249.99,
     quantity: 5,
     thumbnail:
@@ -18,6 +20,7 @@ const items = [
   {
     id: 55,
     title: "Egg Slicer",
+    category: "slicer",
     price: 6.99,
     quantity: 2,
     thumbnail:
@@ -26,6 +29,7 @@ const items = [
   {
     id: 62,
     title: "Ice Cube Tray",
+    category: "tray",
     price: 5.99,
     quantity: 2,
     thumbnail:
@@ -34,6 +38,7 @@ const items = [
   {
     id: 132,
     title: "Samsung Galaxy S8",
+    category: "phone",
     price: 499.99,
     quantity: 3,
     thumbnail:

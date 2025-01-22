@@ -1,12 +1,13 @@
 import React from "react";
 import { FaShoppingCart } from "react-icons/fa";
-import { useNavigate } from "react-router-dom"; // Import the useNavigate hook
+import { useNavigate } from "react-router-dom"; 
+
 
 export const Header = (props) => {
-  const navigate = useNavigate(); // Initialize navigate function
+  const navigate = useNavigate(); 
 
   const handleCheckoutClick = () => {
-    navigate("/checkout"); // Navigate to the checkout page
+    navigate("/checkout"); 
   };
 
   return (
@@ -25,6 +26,7 @@ export const Header = (props) => {
           Checkout
         </button>
       </div>
+      
     </div>
   );
 };
